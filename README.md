@@ -8,7 +8,7 @@
 
 A 140-page treatment of Fourier series that develops the theory through a probabilistic and statistical lens. The Fejér kernel is a probability density converging to a point mass; Fejér's theorem follows from convergence in probability. Parseval's identity is a variance decomposition — the Fourier-analytic equivalent of ANOVA. Coefficient decay rates are purchased by smoothness, one derivative at a time. The chapter develops calculus, probability, and analysis organically as the Fourier story demands them, rather than as prerequisites.
 
-This is an early chapter of a larger book in progress --- loosely on "mathematical methods" --- which uses Fourier theory as a throughline connecting calculus, probability, linear algebra, and regression. The chapter is self-contained and is intended to be readable with minimal background beyond introductory calculus.
+This is an early chapter of a larger book in progress — loosely on "mathematical methods" — which uses Fourier theory as a throughline connecting calculus, probability, linear algebra, and regression. The chapter is self-contained and is intended to be readable with minimal background beyond introductory calculus.
 
 ### What's in it
 
